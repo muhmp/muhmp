@@ -1,5 +1,5 @@
 ### Hi there  👋
-### you can call me Mamet 
+### You can call me Mamet !
 ### My goal: Become a great software engineer especially in Full-stack development
 
 - 🔭 I’m currently working on learning web development (Front-end)
