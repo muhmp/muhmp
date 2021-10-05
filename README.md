@@ -1,4 +1,4 @@
-### Hi there, I'm Muhammad - [muhmp][website] 👋
+### Hi there, I'm Muhammad  👋
 
 - 📚 I’m currently learning on web development (Front-end)
 
