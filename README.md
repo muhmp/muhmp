@@ -1,6 +1,6 @@
 ### Hi there, I'm Muhammad  👋
 
-- 📚 currently learning Front-end web 
+- 📚 currently learning Front-end (Web)
 - 🎯 targeting my goal as a full-stack engineer in the future.
 
 
